@@ -1,8 +1,20 @@
 ﻿<Properties StartupConfiguration="{4417F9AA-B41F-4BAD-9FF8-C3A074C9BB35}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person.cs">
     <Files>
-      <File FileName="Program.cs" Line="3" Column="27" />
+      <File FileName="Program.cs" Line="19" Column="6" />
+      <File FileName="Person.cs" Line="14" Column="41" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio1ivan" expanded="True">
+            <Node name="Laboratorio1ivan" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
@@ -10,5 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Laboratorio1ivan FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Laboratorio1ivan PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

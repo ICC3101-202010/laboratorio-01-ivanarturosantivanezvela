@@ -6,8 +6,15 @@ namespace Laboratorio1ivan
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Esto es feo");
+            Person value = new Person("Bob","Kunga");
+            value.Lanzar();
+
+            Console.WriteLine(value.Nombre+ " "+ value.Apellido);
+            
+
+           
+
+
         }
     }
 }
